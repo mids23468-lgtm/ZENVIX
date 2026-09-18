@@ -1,0 +1,6 @@
+{
+  "name": "ZENVIX WATCHES",
+  "description": "Premium luxury horology e-commerce showcasing precision Swiss-inspired mechanical watches, vintage clockwork engineering, and artisanal craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
